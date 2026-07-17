@@ -1,11 +1,6 @@
 ## Hi there I 'm Aayushi Tomar! 👋
 
-<!--
-**aayushi-tomar/aayushi-tomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 # 💫 About Me:
+# 💫 About Me:
 🚀 About Me<br><br>🎓 Computer Science Engineering student who likes figuring out how modern applications are architected — end to end.<br>🧠 Full-stack development with a growing specialization in AI-powered applications — from REST APIs to LLM-integrated features.<br>🔧 Currently exploring Retrieval-Augmented Generation (RAG), API design, and scalable backend architecture.<br>💬 Happy to talk about building full-stack apps, integrating AI into products, or React/Node.js development.<br>🤝 Open to internships, open-source contributions, and collaborative projects.
 
 
@@ -25,12 +20,4 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=aayushi-tomar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
