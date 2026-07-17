@@ -1,7 +1,7 @@
 ## Hi there I 'm Aayushi Tomar! 👋
 
 # 💫 About Me:
-🚀 About Me<br><br>🎓 Computer Science Engineering student who likes figuring out how modern applications are architected — end to end.<br>🧠 Full-stack development with a growing specialization in AI-powered applications — from REST APIs to LLM-integrated features.<br>🔧 Currently exploring Retrieval-Augmented Generation (RAG), API design, and scalable backend architecture.<br>💬 Happy to talk about building full-stack apps, integrating AI into products, or React/Node.js development.<br>🤝 Open to internships, open-source contributions, and collaborative projects.
+<br><br>🎓 Computer Science Engineering student who likes figuring out how modern applications are architected — end to end.<br>🧠 Full-stack development with a growing specialization in AI-powered applications — from REST APIs to LLM-integrated features.<br>🔧 Currently exploring Retrieval-Augmented Generation (RAG), API design, and scalable backend architecture.<br>💬 Happy to talk about building full-stack apps, integrating AI into products, or React/Node.js development.<br>🤝 Open to internships, open-source contributions, and collaborative projects.
 
 
 ## 🌐 Socials:
@@ -14,10 +14,6 @@
 ![](https://streak-stats.demolab.com/?user=aayushi-tomar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayushi-tomar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayushi-tomar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=aayushi-tomar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
