@@ -1,5 +1,4 @@
 ## Hi there I 'm Aayushi Tomar! 👋
-
 # 💫 About Me:
 <br><br>🎓 Computer Science Engineering student who likes figuring out how modern applications are architected — end to end.<br>🧠 Full-stack development with a growing specialization in AI-powered applications — from REST APIs to LLM-integrated features.<br>🔧 Currently exploring Retrieval-Augmented Generation (RAG), API design, and scalable backend architecture.<br>💬 Happy to talk about building full-stack apps, integrating AI into products, or React/Node.js development.<br>🤝 Open to internships, open-source contributions, and collaborative projects.
 
