@@ -2,10 +2,5 @@
 
 
 
-🧭 About Me
 
-🔧 I build backend services (APIs, distributed systems, event-driven pipelines) and AI infrastructure (training/serving pipelines, feature stores, model deployment).
-🧠 Currently focused on: [e.g. "scaling inference infra for LLM workloads" / "building a feature store for real-time ML"]
-🌱 Learning: [e.g. "vLLM internals, Kubernetes operators, Ray"]
-💬 Ask me about: distributed systems, API design, MLOps, cloud infra, performance tuning
 
