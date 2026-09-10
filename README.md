@@ -7,9 +7,9 @@
 
 ### 🧭 About Me
 
- I build backend and distributed systems — scalable APIs, databases, and services designed to handle real-world load
- Exploring — RAG (Retrieval-Augmented Generation) pipelines, LLM integration, vector databases, and embedding-based search
- Ask me about: backend architecture, distributed systems, databases, RAG/LLM pipelines, Flask/Python
+ -I build backend and distributed systems — scalable APIs, databases, and services designed to handle real-world load
+ -Exploring — RAG (Retrieval-Augmented Generation) pipelines, LLM integration, vector databases, and embedding-based search
+ -Ask me about: backend architecture, distributed systems, databases, RAG/LLM pipelines, Flask/Python
 
 ---
 
