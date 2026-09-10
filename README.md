@@ -3,7 +3,7 @@
 
 
 
-
+---
 
 ### 🧭 About Me
 
@@ -75,11 +75,11 @@
 
 
 
-
+---
 
 <p align="center">
 <img src="https://count.getloli.com/@:aayushi-tomar" alt="Profile views" />
 </p>
 
-
+---
 
