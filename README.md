@@ -1,23 +1,9 @@
 ![731501e703448b](https://github.com/user-attachments/assets/a7541284-fde4-4acb-9ac2-f95ba078cd60)
 
 
-<!-- 🎨 Keep your existing pixel-art gif/banner embed right here at the top, e.g.: -->
-<!-- ![banner](https://your-raw-github-url/banner.gif) -->
 
-<h1 align="center">Hi, I'm Aayushi Tomar 👋</h1>
-<h3 align="center">Backend Systems Developer · AI Infra Enthusiast</h3>
 
-<p align="center">
-  I build backend systems and AI-powered applications — from smart healthcare platforms to lightweight infra tools — with a focus on clean architecture and practical engineering.
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/aayushi-tomar-6067b02a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aayushi30tomar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/AayushiATomar"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
-</p>
-
----
 
 ### 🧭 About Me
 
