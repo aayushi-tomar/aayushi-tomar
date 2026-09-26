@@ -68,7 +68,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/aayushi-tomar-6067b02a6">LinkedIn</a> ·
   <a href="mailto:aayushi30tomar@gmail.com">Email</a> ·
-  <a href="https://twitter.com/AayushiATomar">X</a>
+  <a href="https://twitter.com/AayushiATomar">X</a>.
 </p>
 
 
